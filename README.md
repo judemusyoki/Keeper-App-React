@@ -1,4 +1,4 @@
-# keeper-app-React
+# note-keeper-app-React
 Created with CodeSandbox
 
 This is a simple app that allows one to create
